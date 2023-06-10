@@ -2,6 +2,6 @@
 
 <@c.page>
 
-<h5>Hello, guest</h5>
-    <div>This is a simple clone of twitter</div>
+<h5>Добро пожаловать!</h5>
+    <div>Это приложение небольшой аналог Twitter</div>
 </@c.page>
